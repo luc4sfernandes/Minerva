@@ -58,18 +58,18 @@ Implementação de técnicas modernas de IA.
 O desenvolvimento da Minerva é fortemente embasado em literatura acadêmica especializada. As principais referências para a arquitetura atual incluem:
 
 * **Representação de Tabuleiro e Lógica Básica:**
-    * [cite_start]*Kuniyoshi, Y. M.* - Implementação elementar em C (Matrizes). [cite: 3512]
-    * [cite_start]*Santana, H. V. M. D.* - Anatomia de um Motor e Técnica 0x88. [cite: 3]
+    * *Kuniyoshi, Y. M.* - Implementação elementar em C (Matrizes). 
+    * *Santana, H. V. M. D.* - Anatomia de um Motor e Técnica 0x88. 
 * **Regras e Movimentação:**
-    * [cite_start]*Mendes, J. M. P. & Andrade, M. H.* - Regras de Roque e En Passant. [cite: 4859]
+    **Mendes, J. M. P. & Andrade, M. H.* - Regras de Roque e En Passant.
 * **Algoritmos de Busca (Minimax/Alfa-Beta):**
-    * [cite_start]*Albuquerque, E. P.* - Aplicação do Algoritmo Minimax. [cite: 1101]
-    * [cite_start]*Santos, V. B.* - Comparativo de desempenho e Poda Alfa-Beta. [cite: 4288]
+    * *Albuquerque, E. P.* - Aplicação do Algoritmo Minimax. 
+    * *Santos, V. B.* - Comparativo de desempenho e Poda Alfa-Beta. 
 * **Inteligência Artificial Moderna (Futuro):**
-    * [cite_start]*Mariano, L.* - AlphaZero e Redes Convolucionais. [cite: 1541]
-    * [cite_start]*Guimarães, M. M.* - MCTS e Aprendizado por Reforço. [cite: 5065]
-    * [cite_start]*Pires, H. A. S.* - Visão Computacional e Machine Learning. [cite: 2146]
-    * [cite_start]*Silva, D. H. E.* - Previsão de erros com Grafos. [cite: 2940]
+    * *Mariano, L.* - AlphaZero e Redes Convolucionais. 
+    * *Guimarães, M. M.* - MCTS e Aprendizado por Reforço.
+    * *Pires, H. A. S.* - Visão Computacional e Machine Learning. 
+    * *Silva, D. H. E.* - Previsão de erros com Grafos. 
 
 ---
 
