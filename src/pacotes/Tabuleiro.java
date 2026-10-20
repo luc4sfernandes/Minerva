@@ -23,15 +23,30 @@ public class Tabuleiro extends Pecas {
 	    BRANCO, BRANCO, BRANCO, BRANCO, BRANCO, BRANCO, BRANCO, BRANCO
 	};
 
-	public void imprimir(int array[]){
+	public void imprimir(int arrayPecas[], int arrayCor[]){
+		char[] letras = {'p', 'n', 'b', 'r', 'q', 'k', '.'}; // Cada posição do array bate com valor da peça, ex: letras[0] = 'p' --> PEAO = 0
+
 		for(int j = 0, i = 0; i < 64; i++, j++){
+		
 			if(j == 8){
 				System.out.println();
 				j = 0;
 			}
-			System.out.printf("%d ", array[i]);
-		}
 
+			if(arrayCor[i] == 0){
+				char temp = Character.toUpperCase(letras[arrayPecas[i]]);
+				System.out.printf("%c ", temp);	
+			}	
+
+			if(arrayCor[i] == 1){
+				System.out.printf("%c ", letras[arrayPecas[i]]);	
+			}
+
+			if(arrayCor[i] == 6 && arrayPecas[i] == 6){
+				System.out.printf("%c ", letras[arrayPecas[i]]);
+			}	
+			
+		}
 		System.out.println();
 	}
 }
