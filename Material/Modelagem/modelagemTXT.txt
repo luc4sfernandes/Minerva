@@ -1,0 +1,21 @@
+1* Representação do tabuleiro --> Livre de erros
+2* Posição das peças
+3* Regras do game --> Sem erro
+
+---
+1* --> Mailbox 8x8:
+
+	- Int: Array[64] --> Peças
+	- Int: Array[64] --> Cor
+
+Represetação das peças e cores:
+
+	 #define PAWN    0x0 --> Peão: 0
+	 #define KNIGHT  0x1 --> Cavalo: 1
+	 #define BISHOP  0x2 --> Bispo: 2
+	 #define ROOK    0x3 --> Torre: 3
+	 #define QUEEN   0x4 --> Rainha: 4
+	 #define KING    0x5 --> Rei: 5
+	 #define EMPTY   0x6 --> Vazio: 6
+	 #define WHITE   0x0 --> Branco: 0
+	 #define BLACK   0x1 --> Preto: 1
