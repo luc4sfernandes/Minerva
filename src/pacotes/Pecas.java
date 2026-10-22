@@ -1,6 +1,7 @@
 package pacotes;
 
 public class Pecas {
+	// Replementar as peças, veiculando a peça a cor
 	byte PEAO = 0;
 	byte CAVALO = 1;
 	byte BISPO = 2;
