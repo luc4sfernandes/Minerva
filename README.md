@@ -1,6 +1,6 @@
 # ♟️ Minerva Chess Engine
 
-> 🦉 *"Em verdade, para nós não existe 'destino'. Somos aqueles que, embebidos em medo e ignorância, perdem o passo e caem no rio lamacento que chamam de 'destino'."*
+> *"Em verdade, para nós não existe 'destino'. Somos aqueles que, embebidos em medo e ignorância, perdem o passo e caem no rio lamacento que chamam de 'destino'."*
 
 **Minerva** é um motor de xadrez rudimentar escrito em Java, desenvolvido como um projeto pessoal de aprendizado.
 
@@ -12,7 +12,7 @@ O objetivo é entender como um motor de xadrez funciona, implementando as ideias
 
 ## Etapas
 
-* ⬜ **Tabuleiro** — representar as peças, casas e o estado da partida
+* ✅ **Tabuleiro** — representar as peças, casas e o estado da partida · [↗](https://www.tabnews.com.br/DevLuc0s/minerva-desenvolvendo-meu-proprio-motor-de-xadrez-em-java)
 * ⬜ **Movimentação** — movimentos de cada peça, capturas e validações
 * ⬜ **Regras completas** — xeque, roque, en passant e promoção
 * ⬜ **Primeiro motor** — avaliar posições e escolher jogadas
