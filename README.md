@@ -12,7 +12,7 @@ O objetivo é entender como um motor de xadrez funciona, implementando as ideias
 
 ## Etapas
 
-* ✅ **Tabuleiro** — representar as peças, casas e o estado da partida · [↗](https://www.tabnews.com.br/DevLuc0s/minerva-desenvolvendo-meu-proprio-motor-de-xadrez-em-java)
+* ✅ **Tabuleiro** — representar as peças, casas e o estado da partida · [tabnews](https://www.tabnews.com.br/DevLuc0s/minerva-desenvolvendo-meu-proprio-motor-de-xadrez-em-java)
 * ⬜ **Movimentação** — movimentos de cada peça, capturas e validações
 * ⬜ **Regras completas** — xeque, roque, en passant e promoção
 * ⬜ **Primeiro motor** — avaliar posições e escolher jogadas
